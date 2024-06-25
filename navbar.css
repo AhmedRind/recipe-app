@@ -1,0 +1,30 @@
+nav {
+  width: 100%;
+  height: 5rem;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 1rem 0rem;
+}
+
+#searchBar {
+  border-radius: 25px;
+  width: 40%;
+  height: 3rem;
+  background-color: white;
+  border: none;
+  outline: none;
+  padding-left: 10px ;
+
+}
+
+#searchButton {
+  background-color: #ff9b07;
+  color: black;
+  border: none;
+  height: 3rem;
+  border-radius: 25px;
+  font-weight: bold;
+  padding: 1rem 2rem;
+}
